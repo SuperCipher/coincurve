@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:20.10
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
